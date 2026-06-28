@@ -7,7 +7,7 @@ import (
 )
 
 func log(r *http.Request){
-	ip = r.Header.Get("X-Forwarded-For")
+	ip := r.Header.Get("X-Forwarded-For")
 	fmt.Println(ip)
 }
 
