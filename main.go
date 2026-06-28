@@ -6,6 +6,10 @@ import (
 	"net/http"
 )
 
+func log(r *http.Request){
+	ip = r.Header.Get("X-Forwarded-For")
+	fmt.Println(ip)
+
 func main() {
 	// Говорим: "На запрос /search отвечай функцией getSearch"
 	http.HandleFunc("GET /search", getSearch)
@@ -35,6 +39,8 @@ func getSearch(w http.ResponseWriter, r *http.Request) {
 	
 	// 4. Говорим браузеру, что отправляем JSON
 	w.Header().Set("Content-Type", "application/json")
+
+	log(r)
 	
 	// 5. Превращаем результат в JSON и отправляем
 	json.NewEncoder(w).Encode(res)
