@@ -1,0 +1,142 @@
+[
+    {
+        "url": "https://google.com",
+        "name": "Google",
+        "description": "World's leading search engine"
+    },
+    {
+        "url": "https://youtube.com",
+        "name": "YouTube",
+        "description": "Video sharing platform"
+    },
+    {
+        "url": "https://github.com",
+        "name": "GitHub",
+        "description": "Code hosting and collaboration platform"
+    },
+    {
+        "url": "https://stackoverflow.com",
+        "name": "Stack Overflow",
+        "description": "Q&A community for programmers"
+    },
+    {
+        "url": "https://reddit.com",
+        "name": "Reddit",
+        "description": "Social news and discussion platform"
+    },
+    {
+        "url": "https://wikipedia.org",
+        "name": "Wikipedia",
+        "description": "Free online encyclopedia"
+    },
+    {
+        "url": "https://twitter.com",
+        "name": "X (Twitter)",
+        "description": "Social media platform"
+    },
+    {
+        "url": "https://instagram.com",
+        "name": "Instagram",
+        "description": "Photo and video sharing social network"
+    },
+    {
+        "url": "https://facebook.com",
+        "name": "Facebook",
+        "description": "Social networking platform"
+    },
+    {
+        "url": "https://amazon.com",
+        "name": "Amazon",
+        "description": "E-commerce and cloud computing platform"
+    },
+    {
+        "url": "https://netflix.com",
+        "name": "Netflix",
+        "description": "Streaming service for movies and TV shows"
+    },
+    {
+        "url": "https://twitch.tv",
+        "name": "Twitch",
+        "description": "Live streaming platform for gamers"
+    },
+    {
+        "url": "https://spotify.com",
+        "name": "Spotify",
+        "description": "Music streaming service"
+    },
+    {
+        "url": "https://telegram.org",
+        "name": "Telegram",
+        "description": "Cloud-based instant messaging app"
+    },
+    {
+        "url": "https://discord.com",
+        "name": "Discord",
+        "description": "Voice and text chat for gamers"
+    },
+    {
+        "url": "https://linkedin.com",
+        "name": "LinkedIn",
+        "description": "Professional networking platform"
+    },
+    {
+        "url": "https://bing.com",
+        "name": "Bing",
+        "description": "Microsoft's search engine"
+    },
+    {
+        "url": "https://yahoo.com",
+        "name": "Yahoo",
+        "description": "Web portal and search engine"
+    },
+    {
+        "url": "https://ebay.com",
+        "name": "eBay",
+        "description": "Online auction and shopping website"
+    },
+    {
+        "url": "https://dropbox.com",
+        "name": "Dropbox",
+        "description": "File hosting service"
+    },
+    {
+        "url": "https://zoom.us",
+        "name": "Zoom",
+        "description": "Video conferencing platform"
+    },
+    {
+        "url": "https://pinterest.com",
+        "name": "Pinterest",
+        "description": "Image sharing and social media platform"
+    },
+    {
+        "url": "https://tiktok.com",
+        "name": "TikTok",
+        "description": "Short-form video hosting service"
+    },
+    {
+        "url": "https://whatsapp.com",
+        "name": "WhatsApp",
+        "description": "Messaging and VoIP app"
+    },
+    {
+        "url": "https://baidu.com",
+        "name": "Baidu",
+        "description": "Chinese search engine"
+    },
+    {
+        "url": "https://vimeo.com",
+        "name": "Vimeo",
+        "description": "Video hosting and sharing platform"
+    },
+    {
+        "url": "https://quora.com",
+        "name": "Quora",
+        "description": "Q&A knowledge sharing platform"
+    },
+    {
+        "url": "https://medium.com",
+        "name": "Medium",
+        "description": "Online publishing platform"
+    }
+]
