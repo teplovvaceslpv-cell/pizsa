@@ -7,7 +7,7 @@ import (
 )
 
 func log(r *http.Request){
-	ip := r.Header.Get("X-Real-IP")
+	ip := r.Header.Get("True-Client-IP")
 	fmt.Println(ip)
 }
 
